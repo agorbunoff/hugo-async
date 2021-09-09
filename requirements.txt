@@ -1,0 +1,3 @@
+multidict==6.0.2
+prometheus-client==0.15.0
+python-dotenv==0.21.0
